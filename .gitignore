@@ -1,0 +1,24 @@
+# Ambiente virtual
+.venv/
+
+# Cache Python
+__pycache__/
+*.py[cod]
+
+# Cache do Pytest
+.pytest_cache/
+
+# Banco de dados local
+*.db
+
+# Backups do banco
+*_backup.db
+
+# Variáveis de ambiente
+.env
+
+# Arquivos do sistema
+.DS_Store
+Thumbs.db
+# Scripts auxiliares
+teste_banco.py
